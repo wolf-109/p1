@@ -4,3 +4,6 @@ Feature 1:
 Feature 2:
     feature 2 code 1
     feature 2 code 2
+Feature 3:
+    feature 3 code 1
+    feature 3 code 2
